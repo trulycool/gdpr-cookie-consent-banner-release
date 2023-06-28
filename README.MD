@@ -1,14 +1,16 @@
-<a href="https://beyonk.com">
-  <br />
-  <br />
-  <img src="https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png" width="198" />
-  <br />
-  <br />
-</a>
+<img src="https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png" width="198" /> (original author)
 
 ## GDPR Cookie Consent banner
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com) [![actions](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner/actions/workflows/publish.yml/badge.svg)](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner/actions/workflows/publish.yml) [![SvelteKit](https://img.shields.io/badge/svelte-kit-orange.svg)](https://kit.svelte.dev) [![Svelte v3](https://img.shields.io/badge/svelte-v3-blueviolet.svg)](https://svelte.dev)
+
+**MLX UPDATE:** I added a simple prop to hide the Cookie Setting button in the notice, useful when only Required Cookies are used.
+
+Contacted the original author re: a pull request, but have not heard back. So this is here so that remote builds in places like Vercel can work, since adding a local package won't cut it for that...
+
+😌🙏
+
+--- original text below ---
 
 ### What is it?
 
