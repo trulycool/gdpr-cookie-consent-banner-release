@@ -10,7 +10,7 @@ Contacted the original author re: a pull request, but have not heard back. So th
 
 😌🙏
 
---- original text below ---
+--- original author's text below ---
 
 ### What is it?
 
